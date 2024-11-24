@@ -21,8 +21,8 @@ ul, ol {
 }
 
 .nav li a {
-    background-color: #0d1acf;
-    color: #080808;
+    background-color: #b3da26;
+    color: #1cd1d1;
     text-decoration: none;
     padding: 10px 12px;
     display: block;
@@ -61,3 +61,4 @@ ul, ol {
     visibility: visible;
     opacity: 1;
 }
+

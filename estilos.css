@@ -5,14 +5,215 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+    color: rgb(12, 216, 39);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("fondo.jpg");
-    background-repeat: no-repeat;
+    background-image: url("fondo 2.avif");
+    
 
 }
+
+.titulo{
+   
+    font-size: 60px;
+    color: #eef1e7;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.subtitulo{
+   
+    font-size: 60px;
+    color: #0ebde0;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.img1{
+    height: 500px;
+    width: 600px;
+    background-image: url("img 1.jpg");
+    background-repeat: no-repeat;
+    float:center
+}
+
+.img2{
+    height: 300px;
+    width: 600px;
+    background-image: url("img 2.jpg");
+    background-repeat: no-repeat;
+    float:center
+}
+
+.img3{
+    height: 539px;
+    width: 965px;
+    background-image: url("img 3.avif");
+    background-repeat: no-repeat;
+    float:center
+
+}
+
+
+.img4{
+    height: 357px;
+    width: 500px;
+    background-image: url("img 4.png");
+    background-repeat: no-repeat;
+    float:center
+
+}
+
+.img5{
+    height: 558px;
+    width: 500px;
+    background-image: url("img 5.jpg");
+    background-repeat: no-repeat;
+    float:center
+
+}
+
+.img6{
+    height: 657px;
+    width: 792px;
+    background-image: url("img 6.png");
+    background-repeat: no-repeat;
+    float:center
+
+}
+
+.img7{
+    height: 313px;
+    width: 792px;
+    background-image: url("img 7.png");
+    background-repeat: no-repeat;
+    float:center
+
+}
+
+.img1bio{
+    height: 313px;
+    width: 792px;
+    background-image: url("img 1bio.webp");
+    background-repeat: no-repeat;
+    float:center
+
+}
+
+.img2bio{
+    height: 345px;
+    width: 450px;
+    background-image: url("img 2bio.webp");
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+.img3bio{
+    height: 522px;
+    width: 800px;
+    background-image: url("img 3bio.jpg");
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+.img1qui{
+    height: 522px;
+    width: 800px;
+    background-image: url("img 1qui.jpg");
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+.img2qui{
+    height: 522px;
+    width: 800px;
+    background-image: url("img 2qui.jpg");
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+.img3qui{
+    height: 522px;
+    width: 800px;
+    background-image: url("img 3qui.jpg");
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+.img4qui{
+    height: 522px;
+    width: 800px;
+    background-image: url("img 4qui.png");
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+.img5qui{
+    height: 522px;
+    width: 800px;
+    background-image: url("img 5qui.webp");
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+.img6qui{
+    height: 576px;
+    width: 610px;
+    background-image: url("img 6qui.webp");
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+.img7qui{
+    height: 576px;
+    width: 610px;
+    background-image: url("img 7qui.jpg");
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+.img8qui{
+    height: 576px;
+    width: 610px;
+    background-image: url("img 8qui.jpg");
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+.img9qui{
+    height: 576px;
+    width: 610px;
+    background-image: url("img 9qui.webp");
+    background-repeat: no-repeat;
+    float:left
+
+}
+.img10qui{
+    height: 576px;
+    width: 610px;
+    background-image: url("img 10qui.webp");
+    background-repeat: no-repeat;
+    float:left
+
+}
+
+
+
+
+
+
+
